@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Misbah ul Haque Mahin
 
-<!--
-**misbahulhaquemahin11/misbahulhaquemahin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from Bangladesh  
+💻 Web Developer | Python Learner | AI Enthusiast  
+🚀 Passionate about building apps and learning new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌱 Currently learning **Python, Firebase, and Full Stack Development**
+- 🛠 Interested in **AI Projects and Web Applications**
+- 🎯 Goal: **Build technology that can change the world**
+
+---
+
+## ⚡ Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Firebase
+
+---
+
+## 📂 My Projects
+Here are some of my repositories:
+
+- 🔹 Web Projects
+- 🔹 AI Experiments
+- 🔹 JavaScript Applications
+
+---
+
+## 📊 GitHub Stats
+![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=misbahulhaquemahin11&show_icons=true)
+
+---
+
+## 🌍 Connect with Me
+- GitHub: https://github.com/misbahulhaquemahin11
+
+---
+
+⭐ Thanks for visiting my profile!
